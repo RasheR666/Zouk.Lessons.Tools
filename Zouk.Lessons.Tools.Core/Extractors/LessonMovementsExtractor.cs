@@ -19,6 +19,9 @@ namespace Zouk.Lessons.Tools.Core.Extractors
 				}
 			}
 
+			if(lessonColumnIndex == 0)
+				return new List<string>();
+
 			var movementNames = new List<string>(16);
 
 			for(var rowIndex = 3; rowIndex < cells.GetLength(0); rowIndex++)
