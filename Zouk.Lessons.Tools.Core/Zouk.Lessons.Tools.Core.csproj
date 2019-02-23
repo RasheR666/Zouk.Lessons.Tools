@@ -48,17 +48,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\Constants.cs" />
+    <Compile Include="Common\Lesson.cs" />
+    <Compile Include="Common\ValidationResult.cs" />
     <Compile Include="Extractors\LessonMovementsExtractor.cs" />
     <Compile Include="Printers\LessonPrinter.cs" />
+    <Compile Include="Printers\ValidationResultPrinter.cs" />
     <Compile Include="Printers\Writers\FileWriter.cs" />
     <Compile Include="Printers\Writers\IWriter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Readers\LessonDocumentReader.cs" />
+    <Compile Include="Validators\LessonValidator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Validators\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

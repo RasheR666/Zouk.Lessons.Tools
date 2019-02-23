@@ -1,5 +1,5 @@
 ﻿using System.IO;
-using System.Text;
+using Zouk.Lessons.Tools.Core.Common;
 
 namespace Zouk.Lessons.Tools.Core.Printers.Writers
 {
@@ -7,7 +7,7 @@ namespace Zouk.Lessons.Tools.Core.Printers.Writers
 	{
 		public FileWriter(string filepath)
 		{
-			writer = new StreamWriter(filepath, false, Encoding.UTF8);
+			writer = new StreamWriter(filepath, false, Constants.Encoding);
 		}
 
 		public void Dispose()
