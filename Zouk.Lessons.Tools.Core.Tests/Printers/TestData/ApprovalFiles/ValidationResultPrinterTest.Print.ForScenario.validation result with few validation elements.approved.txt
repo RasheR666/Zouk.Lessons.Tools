@@ -1,0 +1,123 @@
+﻿-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+empty missing movements and empty extra movements
+
+Missing movements
+
+
+
+Extra movements
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+empty missing movements and one extra movements
+
+Missing movements
+
+
+
+Extra movements
+
+extra movement
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+empty missing movements and few extra movements
+
+Missing movements
+
+
+
+Extra movements
+
+extra movement
+extra cool movement
+extra crazy movement
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+one missing movements and empty extra movements
+
+Missing movements
+
+miss movement
+
+
+Extra movements
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+one missing movements and one extra movements
+
+Missing movements
+
+miss movement
+
+
+Extra movements
+
+extra movement
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+one missing movements and few extra movements
+
+Missing movements
+
+miss movement
+
+
+Extra movements
+
+extra movement
+extra cool movement
+extra crazy movement
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+few missing movements and empty extra movements
+
+Missing movements
+
+miss movement
+miss cool movement
+miss crazy movement
+
+
+Extra movements
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+few missing movements and one extra movements
+
+Missing movements
+
+miss movement
+miss cool movement
+miss crazy movement
+
+
+Extra movements
+
+extra movement
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+few missing movements and few extra movements
+
+Missing movements
+
+miss movement
+miss cool movement
+miss crazy movement
+
+
+Extra movements
+
+extra movement
+extra cool movement
+extra crazy movement
+
+

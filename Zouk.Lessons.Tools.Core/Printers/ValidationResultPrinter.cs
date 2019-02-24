@@ -26,11 +26,13 @@ namespace Zouk.Lessons.Tools.Core.Printers
 		private void Print(string name, List<string> movements, IWriter writer)
 		{
 			writer.WriteLine(name);
+			writer.WriteLine();
 			foreach(var missingMovement in movements)
 			{
 				writer.WriteLine(missingMovement);
 			}
 
+			writer.WriteLine();
 			writer.WriteLine();
 		}
 	}
