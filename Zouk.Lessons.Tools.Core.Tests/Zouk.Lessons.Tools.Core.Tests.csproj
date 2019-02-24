@@ -71,6 +71,7 @@
     <Compile Include="Printers\Writers\StringBuilderWriter.cs" />
     <Compile Include="Printers\ValidationResultPrinterTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Readers\LessonDocumentReaderTest.cs" />
     <Compile Include="TestingProjectDirectoryProvider.cs" />
   </ItemGroup>
   <ItemGroup>
