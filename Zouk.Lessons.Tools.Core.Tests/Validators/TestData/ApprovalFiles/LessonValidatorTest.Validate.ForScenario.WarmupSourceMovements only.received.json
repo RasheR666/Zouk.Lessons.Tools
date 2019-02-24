@@ -1,0 +1,63 @@
+﻿{
+    
+  "Elements":  [
+        
+    {
+            
+      "Name":  "warmup.xlsx.txt.source",
+            
+      "MissingMovements":  [
+                
+        "warmup.sequence.cool.movement"
+      
+            ],
+            
+      "ExtraMovements":  [
+                
+        "warmup.source.cool.movement"
+      
+            ]
+    
+        },
+        
+    {
+            
+      "Name":  "warmup.xlsx.txt.sequence",
+            
+      "MissingMovements":  [
+                
+        "warmup.source.movement",
+                
+        "warmup.sequence.cool.movement",
+                
+        "warmup.source.crazy.movement"
+      
+            ],
+            
+      "ExtraMovements":  []
+    
+        },
+        
+    {
+            
+      "Name":  "movements.xlsx.txt.source",
+            
+      "MissingMovements":  [],
+            
+      "ExtraMovements":  []
+    
+        },
+        
+    {
+            
+      "Name":  "movements.xlsx.txt.sequence",
+            
+      "MissingMovements":  [],
+            
+      "ExtraMovements":  []
+    
+        }
+  
+    ]
+
+}
