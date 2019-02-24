@@ -18,16 +18,16 @@ namespace Zouk.Lessons.Tools.Core.Validators
 			return new ValidationResult {Elements = validationElements};
 		}
 
-		private ValidationResultElement Compare(List<string> etalon, List<string> current, string name)
+		private ValidationResultElement Compare(List<string> source, List<string> current, string name)
 		{
-			var etalonSet = new HashSet<string>(etalon);
+			var sourceSet = new HashSet<string>(source);
 			var currentSet = new HashSet<string>(current);
 
 			return new ValidationResultElement
 			{
 				Name = name,
-				MissingMovements = etalonSet.Where(x => !currentSet.Contains(x)).ToList(),
-				ExtraMovements = currentSet.Where(x => !etalonSet.Contains(x)).ToList()
+				MissingMovements = sourceSet.Where(x => !currentSet.Contains(x)).ToList(),
+				ExtraMovements = currentSet.Where(x => !sourceSet.Contains(x)).ToList()
 			};
 		}
 	}
