@@ -3,4 +3,5 @@ obj
 bin
 packages
 *.received.txt
+*.received.json
 *.nupkg
